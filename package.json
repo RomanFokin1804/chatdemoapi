@@ -1,0 +1,29 @@
+{
+  "name": "chatdemoapi",
+  "version": "1.0.0",
+  "description": "chat demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanFokin1804/chatdemoapi.git"
+  },
+  "author": "RomanFokin1804",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanFokin1804/chatdemoapi/issues"
+  },
+  "homepage": "https://github.com/RomanFokin1804/chatdemoapi#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.1",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
